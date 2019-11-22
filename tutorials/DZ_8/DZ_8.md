@@ -1,5 +1,5 @@
 ---
-title: AS_8
+title: DZ_8
 description: ADMINTOOL final
 tags: [tutorial>advanced, tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile
