@@ -1,5 +1,5 @@
 ---
-title: DZ_11
+title: DZ_New_Tutorial
 description: example
 tags: [products>sap-hana, topic>api, tutorial>beginner]
 primary_tag: tutorial:product/mobile
