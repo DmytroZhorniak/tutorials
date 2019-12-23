@@ -13,6 +13,9 @@ time: 22
 ## Details
 ### You will learn
  You'll learn how to configure your host machine to communicate with the server.
+ You'll learn how to configure your host machine to communicate with the server.
+ You'll learn how to configure your host machine to communicate with the server.
+ You'll learn how to configure your host machine to communicate with the server.
 
 ---
 
