@@ -8,12 +8,11 @@ time: 22
 <!-- loio3040d723d58b48f1a97077c001fe4c7f -->
 
 ## Prerequisites
+- **Tutorials:** This tutorial is part of a series.  The previous tutorial is [Set up the Northwind Destination](https://go.sap.com/developer/tutorials/hcp-create-destination.html)
  **Tutorials:** You have completed [Start SAP HANA, express edition Server](hxe-ua-getting-started-vm)
  Tutorials: You have completed [Start SAP HANA, express edition Server](hxe-ua-getting-started-vm)
  Tutorials: You have completed [Start SAP HANA, express edition Server](hxe-ua-getting-started-vm)
  Tutorials: You have completed [Start SAP HANA, express edition Server](hxe-ua-getting-started-vm)
- - Tutorials: You have completed [Start SAP HANA, express edition Server](hxe-ua-getting-started-vm)
- - Tutorials: You have completed [Start SAP HANA, express edition Server](hxe-ua-getting-started-vm)
 
 ## Details
 ### You will learn
