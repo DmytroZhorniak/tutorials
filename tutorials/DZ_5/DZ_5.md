@@ -9,13 +9,16 @@ time: 22
 
 ## Prerequisites
  **Tutorials:** You have completed [Start SAP HANA, express edition Server](hxe-ua-getting-started-vm)
+ Tutorials: You have completed [Start SAP HANA, express edition Server](hxe-ua-getting-started-vm)
+ Tutorials: You have completed [Start SAP HANA, express edition Server](hxe-ua-getting-started-vm)
+ Tutorials: You have completed [Start SAP HANA, express edition Server](hxe-ua-getting-started-vm)
+ - Tutorials: You have completed [Start SAP HANA, express edition Server](hxe-ua-getting-started-vm)
+ - Tutorials: You have completed [Start SAP HANA, express edition Server](hxe-ua-getting-started-vm)
 
 ## Details
 ### You will learn
  You'll learn how to configure your host machine to communicate with the server.
- You'll learn how to configure your host machine to communicate with the server.
- You'll learn how to configure your host machine to communicate with the server.
- You'll learn how to configure your host machine to communicate with the server.
+
 
 ---
 
