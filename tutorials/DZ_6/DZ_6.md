@@ -17,7 +17,7 @@ author_profile: https://github.com/adadouche
   
 ## Details
 ### You will learn  
-TEST2
+ - TEST2
 
 ### Time to Complete
 **77 Min**
