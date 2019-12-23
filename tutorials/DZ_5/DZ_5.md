@@ -8,7 +8,7 @@ time: 22
 <!-- loio3040d723d58b48f1a97077c001fe4c7f -->
 
 ## Prerequisites
- - **Tutorials:** You have completed [Start SAP HANA, express edition Server](hxe-ua-getting-started-vm)
+ **Tutorials:** You have completed [Start SAP HANA, express edition Server](hxe-ua-getting-started-vm)
 
 ## Details
 ### You will learn
